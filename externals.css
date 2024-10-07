@@ -1,0 +1,39 @@
+body {
+  background-image: url("https://www.israeltoday.co.il/wp-content/uploads/2023/11/mage-david-7-10-868x520.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  text-shadow: 5px 5px black;
+}
+
+p {
+  font-family: verdana;
+  font-size: 50px;
+  color: purple;
+  direction: rtl;
+  text-shadow: 2px 2px black;
+}
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: purple;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
