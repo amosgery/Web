@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://img.adira.co.il/Products/2294/1397125609-pic1.jpg");
+}
+
+h1 {
+color: #660033;
+text-align: center;
+font-size: 60;
+font-family: David;
+ text-shadow: 2px 2px 5px #330000
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+  color: #006666;
+  direction: rtl;
+}
